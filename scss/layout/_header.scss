@@ -1,0 +1,22 @@
+
+/*
+================================================================================
+|                                     HEADER                                   |
+================================================================================
+*/
+header{
+	width:100%;
+	min-width: $min-width;
+	text-align:left;	
+	order: 1;	
+    -webkit-order: 1;	
+    height: 50px;
+    background: red;
+}
+
+
+
+
+@media screen and (max-width: 370px) {
+   
+}
